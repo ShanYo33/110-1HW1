@@ -7,12 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-namespace _110_1HW1
-{
-    public partial class Trans
-    {
-
+namespace _110_1HW1 {
+    
+    
+    public partial class Trans1 {
+        
         /// <summary>
         /// form1 控制項。
         /// </summary>

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Trans.aspx.cs" Inherits="_110_1HW1.Trans" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Trans.aspx.cs" Inherits="_110_1HW1.Trans1" %>
 
 <!DOCTYPE html>
 

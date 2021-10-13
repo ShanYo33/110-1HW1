@@ -7,15 +7,11 @@ using System.Web.UI.WebControls;
 
 namespace _110_1HW1
 {
-    public partial class Trans : System.Web.UI.Page
-    {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-            double d_value = -1;
-            d_value = 66;
-            double d_c = -1;
-            d_c = (d_value - 32) * 5 / 9;
-            Response.Write("d_value=" + d_value.ToString() + "F=" + d_c.ToString() + "C");
-        }
-    }
+	public partial class Trans1 : System.Web.UI.Page
+	{
+		protected void Page_Load(object sender, EventArgs e)
+		{
+
+		}
+	}
 }
